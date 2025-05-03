@@ -1,2 +1,2 @@
 # Color-Box
-Change colors of different boxes using Svelte.js
+Change the color of different boxes using Svelte.js
