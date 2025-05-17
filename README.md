@@ -1,5 +1,5 @@
 # Color-Box
-A simple color-changing interface powered by Svelte.js. Click to customize boxes and explore how simple reactivity creates fun UI interactions.
+A simple color-changing interface powered by Svelte.js. Click to customize the color of the boxes and explore how simple reactivity creates fun UI interactions.
 
 Live: https://color-box.onrender.com
 
